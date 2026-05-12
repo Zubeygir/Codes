@@ -20,3 +20,26 @@ File System (fs)
 Path
 Crypto
 Readline
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+About the Project
+
+This project is a Node.js application developed to process, hash, index, and quickly search large lists of passwords.
+
+The system:
+
+Reads passwords line by line
+Generates MD5, SHA1, and SHA256 hashes
+Indexes by the first character
+Handles file-based storage
+Optimizes search operations
+Moves processed files to different folders
+
+This project is a gift.
+
+Technologies Used
+Node.js
+File System (fs)
+Path
+Cryptography
+Read line
